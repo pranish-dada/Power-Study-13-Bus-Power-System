@@ -1,0 +1,4 @@
+I was really intruiged about Power Systems because of my Power Lab so I wanted to better understand the theory by putting it into practice. It helped me better understand how shunt
+capacitors  and transformers tap settings affect bus voltages and why both voltage and equipment loading need to be checked when evaluating a case. The biggest takeaway from 
+all of this was that a seemingly fine power flow network can be operating in undesired way and have voltage and loading problems. Contingency analysis helped me better understand 
+the weaknesses which stayed hidden when  everything was normal and it taught me to explain the limitations of my results alongside the improvements I made.
